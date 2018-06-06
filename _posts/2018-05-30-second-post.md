@@ -1,6 +1,7 @@
 ---
 layout : post
 title : second post practice
+category : practice
 tags:
 - github
 - post
