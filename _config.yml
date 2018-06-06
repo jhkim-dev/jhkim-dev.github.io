@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               blog
-tagline:             'jhkim-dev'
-description:         '안녕하세요.'
+title:               jhkim
+tagline:             '-dev'
+description:         'Welcome'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
