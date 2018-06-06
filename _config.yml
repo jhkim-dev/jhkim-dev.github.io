@@ -7,9 +7,11 @@ permalink:           pretty
 title:               jhkim
 tagline:             '-dev'
 description:         'Welcome'
-url:                 http://lanyon.getpoole.com
+url:                 
 baseurl:             ''
 paginate:            5
+
+image: /images/image_1.png
 
 # About/contact
 author:
