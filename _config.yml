@@ -11,8 +11,6 @@ url:
 baseurl:             ''
 paginate:            5
 
-image: /images/image_1.png
-
 # About/contact
 author:
   name:              Mark Otto
