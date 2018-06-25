@@ -1,8 +1,8 @@
 ---
 layout : post
-title : Sorting
-category : Sorting
-tags: [Sorting, Algorithms]
+title : Sort Intro
+category : Sort
+tags: [Sort, Algorithms]
 ---
 
 정렬(Sorting): 리스트의 항목들을 특정한 순서에 따라 배열하는 것
