@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Jinho Kim
+title: About me
 ---
+
+# Jinho Kim
 
 Job Applicant
 
@@ -11,4 +13,4 @@ EMAIL : jhkim_dev@naver.com
 
 ## Education
 
-B.S. in Applied Mathematics from Hanyang University ERICA, Ansan, Korea in 2017
+B.S. in Applied Mathematics from Hanyang University ERICA in 2017
