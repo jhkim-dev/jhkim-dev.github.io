@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Container With Mos tWater
+title : Container With Most Water
 category : Algorithms
 tags: [Algorithms, Arrays]
 ---
@@ -27,10 +27,10 @@ Since we are always moving the pointer with the smaller value, i.e. if a10 > a21
 //Java
 
 public static void main(String[] args) {
-		int[] height = {2,3,5,3,4,3,8,3};
-		int answer = maxArea(height);	
-		System.out.println(answer);
-	}
+	int[] height = {2,3,5,3,4,3,8,3};
+	int answer = maxArea(height);	
+	System.out.println(answer);
+}
 	
 public static int maxArea(int[] height){	
 	int left = 0;
