@@ -22,7 +22,7 @@ Note that the answer must be a substring, "pwke" is a subsequence and not a subs
 
 ### Solution
 
-<중복된 문자가 없는 가장 긴 부분문자열 길이찾기>
+중복된 문자가 없는 가장 긴 부분문자열 길이찾기
 
 먼저, 키(문자), 값(위치)를 저장할 수 있는 hashmap을 만든다.
 
